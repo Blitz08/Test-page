@@ -1,1 +1,1 @@
-laravel new example-app
+laravel new my-app
